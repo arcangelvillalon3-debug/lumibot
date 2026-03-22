@@ -176,4 +176,5 @@ npx cap open android  # Abre Android Studio
 
 ---
 
-**¡Listo para conquistar el mundo! 🌍🦉**
+**¡Listo para conquistar el mundo! 🌍🦉**    
+DEPLOY V1
